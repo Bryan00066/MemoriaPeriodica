@@ -1,0 +1,56 @@
+body {
+    background-color: #000;
+    color: #fff;
+    margin: 15px;
+    height: fit-content;
+    min-height: 100%;
+    font-family: Arial, sans-serif;
+}
+
+h1, h2 {
+    text-align: center;
+}
+
+h1 {
+    font-size: 2em;
+}
+
+h2 {
+    font-size: 1.2em;
+    color: yellow;
+}
+
+.h22 {
+    font-size: 1.2em;
+    color: green;
+}
+
+p {
+    font-size: 0.9em;
+    text-align: center;
+}
+
+li {
+    font-size: 30px;
+    color: white;
+}
+
+i {
+    font-size: 15px;
+    color: red;
+}
+
+ul {
+    list-style-type: circle;
+}
+
+.container {
+    text-align: center;
+}
+
+footer {
+    text-align: center;
+    padding: center;
+    high: low;
+    color: gray;
+}
